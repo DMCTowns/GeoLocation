@@ -1,0 +1,12 @@
+{
+    "name": "dmc-towns/geolocation",
+    "description": "A set of objects to handle global positioning using latitude and longitude",
+    "require": {
+        "php": "^5.3.6 || ^7.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "DMCTowns\\GeoLocation\\": "src/"
+        }
+    }
+}
